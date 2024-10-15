@@ -4,7 +4,7 @@ The analysis of London bike rides reveals distinct patterns in ridership based o
 
 ![image](https://github.com/user-attachments/assets/c33b944e-931f-4bcd-a50b-6796f7716c32)
 ## Code Setup
-You can simply download the London Bike Data in the data folder on this repository named 'london_merged.csv' and also download the code named London Bike Cleaning Project.py in the src folder where the source code is. To use this dataset ensure you have the necessary packages installed, and then read the data into a DataFrame using the command:
+You can simply download the London Bike Data in the data folder on this repository named 'london_merged.csv' and also download the code named London_Bike_Cleaning_Project.py in the src folder. To use this dataset ensure you have the necessary packages installed, and then read the data into a DataFrame using the command:
 
 bike_df = pd.read_csv('C:/Users/Alex Hewitt/Downloads/london_merged.csv')
 
